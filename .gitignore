@@ -40,8 +40,12 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-
-
+# arquivos ignorados manualmente
 components.json
 package-lock.json
 dataset.json
+eslint.config.mjs
+next.config.ts
+package.json
+postcss.config.mjs
+tsconfig.json
